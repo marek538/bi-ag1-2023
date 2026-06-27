@@ -746,7 +746,6 @@ void myTest6()
 {
     TextEditorBackend txt("iqsfj\nmvt");
     txt.edit(4, '\n');
-    cout << "tvojamama" << endl;
 }
 
 int main()
@@ -761,7 +760,6 @@ int main()
     myTest4();
     myTest5();
     myTest6();
-    cout << "tvojemama" << endl;
     return 0;
 }
 
